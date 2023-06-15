@@ -1,7 +1,7 @@
-# 13_questions_of_shell
+#  13_questions_of_shell
 shell十三问--shell教程（markdown 版本）
 
-##shell十三问之1: 何为shell？
+## shell十三问之1: 何为shell？
 _______________________________________
 
 
